@@ -248,7 +248,6 @@ ul, ol, dl {
 ================================================== */
 
 body {
-  transition: background 5s linear;
   background: rgba(219, 175, 162, 0.35) url('../img/anne-moriarity.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
