@@ -262,3 +262,18 @@ footer {
   width: 100%;
   text-align: center;
 }
+
+/* Smaller devices */
+@media only screen and (max-width: 760px) {
+  body {
+    -webkit-background-size: 130%;
+    -moz-background-size: 130%;
+    -o-background-size: 130%;
+    background-size: 130%;
+    background-position: -50px 50%;
+  }
+  footer {
+    color: rgba(219, 175, 162,1);
+    text-shadow: none;
+  }
+ }
